@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "UNAM_Cpp",
+			"Path": "C:\\Users\\Sergio Mares\\Documents\\Unreal Projects\\UNAM_Cpp\\Source\\UNAM_Cpp.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "UNAM_CppEditor",
+			"Path": "C:\\Users\\Sergio Mares\\Documents\\Unreal Projects\\UNAM_Cpp\\Source\\UNAM_CppEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

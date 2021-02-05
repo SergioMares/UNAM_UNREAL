@@ -1,0 +1,5 @@
+C:\Users\Sergio Mares\Documents\Unreal Projects\UNAM_Cpp\Intermediate\Build\Win64\UE4Editor\Development\UNAM_Cpp\Definitions.UNAM_Cpp.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+C:\Users\Sergio Mares\Documents\Unreal Projects\UNAM_Cpp\Source\UNAM_Cpp/MainAnimInstance.h
+C:\Users\Sergio Mares\Documents\Unreal Projects\UNAM_Cpp\Intermediate\Build\Win64\UE4Editor\Inc\UNAM_Cpp\MainAnimInstance.generated.h

@@ -1,0 +1,7 @@
+C:\Users\Sergio Mares\Documents\Unreal Projects\UNAM_Cpp\Intermediate\Build\Win64\UE4Editor\Development\UNAM_Cpp\Definitions.UNAM_Cpp.h
+C:\Users\Sergio Mares\Documents\Unreal Projects\UNAM_Cpp\Source\UNAM_Cpp\ColliderP.h
+C:\Users\Sergio Mares\Documents\Unreal Projects\UNAM_Cpp\Intermediate\Build\Win64\UE4Editor\Inc\UNAM_Cpp\ColliderP.generated.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Engine\Classes\Components/SphereComponent.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Engine\Classes\Components/ShapeComponent.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ShapeComponent.generated.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\SphereComponent.generated.h

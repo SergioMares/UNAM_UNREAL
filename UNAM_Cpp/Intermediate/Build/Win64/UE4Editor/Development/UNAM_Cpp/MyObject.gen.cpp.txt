@@ -1,0 +1,11 @@
+C:\Users\Sergio Mares\Documents\Unreal Projects\UNAM_Cpp\Intermediate\Build\Win64\UE4Editor\Development\UNAM_Cpp\Definitions.UNAM_Cpp.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+C:\Users\Sergio Mares\Documents\Unreal Projects\UNAM_Cpp\Source\UNAM_Cpp/MyObject.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/NoExportTypes.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/PropertyAccessUtil.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Core\Public\Math/UnitConversion.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Core\Public\Math/UnitConversion.inl
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Core\Public\Internationalization/PolyglotTextData.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\CoreUObject\Public\AssetRegistry/ARFilter.h
+C:\Users\Sergio Mares\Documents\Unreal Projects\UNAM_Cpp\Intermediate\Build\Win64\UE4Editor\Inc\UNAM_Cpp\MyObject.generated.h

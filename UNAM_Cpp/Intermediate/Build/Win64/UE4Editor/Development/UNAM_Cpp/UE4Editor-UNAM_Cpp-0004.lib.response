@@ -1,0 +1,30 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-UNAM_Cpp-0004.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\Sergio Mares\Documents\Unreal Projects\UNAM_Cpp\Intermediate\Build\Win64\UNAM_CppEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Users\Sergio Mares\Documents\Unreal Projects\UNAM_Cpp\Intermediate\Build\Win64\UE4Editor\Development\UNAM_Cpp\ColliderP.cpp.obj"
+"C:\Users\Sergio Mares\Documents\Unreal Projects\UNAM_Cpp\Intermediate\Build\Win64\UE4Editor\Development\UNAM_Cpp\Critter.cpp.obj"
+"C:\Users\Sergio Mares\Documents\Unreal Projects\UNAM_Cpp\Intermediate\Build\Win64\UE4Editor\Development\UNAM_Cpp\Floater.cpp.obj"
+"C:\Users\Sergio Mares\Documents\Unreal Projects\UNAM_Cpp\Intermediate\Build\Win64\UE4Editor\Development\UNAM_Cpp\Main.cpp.obj"
+"C:\Users\Sergio Mares\Documents\Unreal Projects\UNAM_Cpp\Intermediate\Build\Win64\UE4Editor\Development\UNAM_Cpp\MyObject.cpp.obj"
+"C:\Users\Sergio Mares\Documents\Unreal Projects\UNAM_Cpp\Intermediate\Build\Win64\UE4Editor\Development\UNAM_Cpp\Offset.cpp.obj"
+"C:\Users\Sergio Mares\Documents\Unreal Projects\UNAM_Cpp\Intermediate\Build\Win64\UE4Editor\Development\UNAM_Cpp\PTest.cpp.obj"
+"C:\Users\Sergio Mares\Documents\Unreal Projects\UNAM_Cpp\Intermediate\Build\Win64\UE4Editor\Development\UNAM_Cpp\UNAM_Cpp.cpp.obj"
+"C:\Users\Sergio Mares\Documents\Unreal Projects\UNAM_Cpp\Intermediate\Build\Win64\UE4Editor\Development\UNAM_Cpp\UNAM_CppGameModeBase.cpp.obj"
+"C:\Users\Sergio Mares\Documents\Unreal Projects\UNAM_Cpp\Intermediate\Build\Win64\UE4Editor\Development\UNAM_Cpp\ColliderP.gen.cpp.obj"
+"C:\Users\Sergio Mares\Documents\Unreal Projects\UNAM_Cpp\Intermediate\Build\Win64\UE4Editor\Development\UNAM_Cpp\Critter.gen.cpp.obj"
+"C:\Users\Sergio Mares\Documents\Unreal Projects\UNAM_Cpp\Intermediate\Build\Win64\UE4Editor\Development\UNAM_Cpp\Floater.gen.cpp.obj"
+"C:\Users\Sergio Mares\Documents\Unreal Projects\UNAM_Cpp\Intermediate\Build\Win64\UE4Editor\Development\UNAM_Cpp\Main.gen.cpp.obj"
+"C:\Users\Sergio Mares\Documents\Unreal Projects\UNAM_Cpp\Intermediate\Build\Win64\UE4Editor\Development\UNAM_Cpp\MyObject.gen.cpp.obj"
+"C:\Users\Sergio Mares\Documents\Unreal Projects\UNAM_Cpp\Intermediate\Build\Win64\UE4Editor\Development\UNAM_Cpp\Offset.gen.cpp.obj"
+"C:\Users\Sergio Mares\Documents\Unreal Projects\UNAM_Cpp\Intermediate\Build\Win64\UE4Editor\Development\UNAM_Cpp\PTest.gen.cpp.obj"
+"C:\Users\Sergio Mares\Documents\Unreal Projects\UNAM_Cpp\Intermediate\Build\Win64\UE4Editor\Development\UNAM_Cpp\UNAM_Cpp.init.gen.cpp.obj"
+"C:\Users\Sergio Mares\Documents\Unreal Projects\UNAM_Cpp\Intermediate\Build\Win64\UE4Editor\Development\UNAM_Cpp\UNAM_CppGameModeBase.gen.cpp.obj"
+"C:\Users\Sergio Mares\Documents\Unreal Projects\UNAM_Cpp\Intermediate\Build\Win64\UE4Editor\Development\UNAM_Cpp\Default.rc2.res"
+/OUT:"C:\Users\Sergio Mares\Documents\Unreal Projects\UNAM_Cpp\Intermediate\Build\Win64\UE4Editor\Development\UNAM_Cpp\UE4Editor-UNAM_Cpp-0004.lib"
+/INCLUDE:IMPLEMENT_MODULE_UNAM_Cpp

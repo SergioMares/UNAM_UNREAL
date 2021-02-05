@@ -1,0 +1,96 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\UNAM_Cpp.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{3C049AEA-BA25-474C-970C-6D5979F9D089}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\UNAM_Cpp.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\UNAM_CppEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{6F95FDE6-FBEC-4ECA-9499-9C6BC44047F5}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\UNAM_Cpp">
+      <UniqueIdentifier>{9A032039-FA18-4A76-8582-4C647BB7F1D4}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\UNAM_Cpp\ColliderP.cpp">
+      <Filter>Source\UNAM_Cpp</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\UNAM_Cpp\ColliderP.h">
+      <Filter>Source\UNAM_Cpp</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\UNAM_Cpp\Critter.cpp">
+      <Filter>Source\UNAM_Cpp</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\UNAM_Cpp\Critter.h">
+      <Filter>Source\UNAM_Cpp</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\UNAM_Cpp\Floater.cpp">
+      <Filter>Source\UNAM_Cpp</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\UNAM_Cpp\Floater.h">
+      <Filter>Source\UNAM_Cpp</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\UNAM_Cpp\Main.cpp">
+      <Filter>Source\UNAM_Cpp</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\UNAM_Cpp\Main.h">
+      <Filter>Source\UNAM_Cpp</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\UNAM_Cpp\MainAnimInstance.cpp">
+      <Filter>Source\UNAM_Cpp</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\UNAM_Cpp\MainAnimInstance.h">
+      <Filter>Source\UNAM_Cpp</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\UNAM_Cpp\MyObject.cpp">
+      <Filter>Source\UNAM_Cpp</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\UNAM_Cpp\MyObject.h">
+      <Filter>Source\UNAM_Cpp</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\UNAM_Cpp\Offset.cpp">
+      <Filter>Source\UNAM_Cpp</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\UNAM_Cpp\Offset.h">
+      <Filter>Source\UNAM_Cpp</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\UNAM_Cpp\PTest.cpp">
+      <Filter>Source\UNAM_Cpp</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\UNAM_Cpp\PTest.h">
+      <Filter>Source\UNAM_Cpp</Filter>
+    </ClInclude>
+    <None Include="..\..\Source\UNAM_Cpp\UNAM_Cpp.Build.cs">
+      <Filter>Source\UNAM_Cpp</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\UNAM_Cpp\UNAM_Cpp.cpp">
+      <Filter>Source\UNAM_Cpp</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\UNAM_Cpp\UNAM_Cpp.h">
+      <Filter>Source\UNAM_Cpp</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\UNAM_Cpp\UNAM_CppGameModeBase.cpp">
+      <Filter>Source\UNAM_Cpp</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\UNAM_Cpp\UNAM_CppGameModeBase.h">
+      <Filter>Source\UNAM_Cpp</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

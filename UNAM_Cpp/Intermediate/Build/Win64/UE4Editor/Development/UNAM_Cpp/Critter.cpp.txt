@@ -1,0 +1,7 @@
+C:\Users\Sergio Mares\Documents\Unreal Projects\UNAM_Cpp\Intermediate\Build\Win64\UE4Editor\Development\UNAM_Cpp\Definitions.UNAM_Cpp.h
+C:\Users\Sergio Mares\Documents\Unreal Projects\UNAM_Cpp\Source\UNAM_Cpp\Critter.h
+C:\Users\Sergio Mares\Documents\Unreal Projects\UNAM_Cpp\Intermediate\Build\Win64\UE4Editor\Inc\UNAM_Cpp\Critter.generated.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Engine\Classes\Camera/CameraComponent.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\CameraComponent.generated.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Engine\Classes\GameFramework/SpringArmComponent.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\SpringArmComponent.generated.h

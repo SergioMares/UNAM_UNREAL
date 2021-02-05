@@ -1,0 +1,12 @@
+﻿  Invalidating makefile for UNAM_CppEditor (Main.cpp modified)
+  Building UNAM_CppEditor...
+  Using Visual Studio 2019 14.28.29335 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+  Building 4 actions with 12 processes...
+    [1/4] Main.cpp
+    [2/4] UE4Editor-UNAM_Cpp-0010.lib
+       Creating library C:\Users\Sergio Mares\Documents\Unreal Projects\UNAM_Cpp\Intermediate\Build\Win64\UE4Editor\Development\UNAM_Cpp\UE4Editor-UNAM_Cpp-0010.lib and object C:\Users\Sergio Mares\Documents\Unreal Projects\UNAM_Cpp\Intermediate\Build\Win64\UE4Editor\Development\UNAM_Cpp\UE4Editor-UNAM_Cpp-0010.exp
+    [3/4] UE4Editor-UNAM_Cpp-0010.dll
+       Creating library C:\Users\Sergio Mares\Documents\Unreal Projects\UNAM_Cpp\Intermediate\Build\Win64\UE4Editor\Development\UNAM_Cpp\UE4Editor-UNAM_Cpp-0010.suppressed.lib and object C:\Users\Sergio Mares\Documents\Unreal Projects\UNAM_Cpp\Intermediate\Build\Win64\UE4Editor\Development\UNAM_Cpp\UE4Editor-UNAM_Cpp-0010.suppressed.exp
+    [4/4] UNAM_CppEditor.target
+  Total time in Parallel executor: 1.62 seconds
+  Total execution time: 3.25 seconds

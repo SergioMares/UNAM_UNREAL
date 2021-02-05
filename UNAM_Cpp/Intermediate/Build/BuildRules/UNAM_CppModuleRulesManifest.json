@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\Sergio Mares\\Documents\\Unreal Projects\\UNAM_Cpp\\Source\\UNAM_Cpp\\UNAM_Cpp.Build.cs",
+		"C:\\Users\\Sergio Mares\\Documents\\Unreal Projects\\UNAM_Cpp\\Source\\UNAM_Cpp.Target.cs",
+		"C:\\Users\\Sergio Mares\\Documents\\Unreal Projects\\UNAM_Cpp\\Source\\UNAM_CppEditor.Target.cs"
+	],
+	"EngineVersion": "4.26.1"
+}
